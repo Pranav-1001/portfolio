@@ -196,7 +196,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "https://private-user-images.githubusercontent.com/72593204/298801412-a9907500-1047-431d-b365-2ad4812f711d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5ODI4MDcsIm5iZiI6MTcwNTk4MjUwNywicGF0aCI6Ii83MjU5MzIwNC8yOTg4MDE0MTItYTk5MDc1MDAtMTA0Ny00MzFkLWIzNjUtMmFkNDgxMmY3MTFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIzVDA0MDE0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0NzhlNTMxZWM0MzdkZjlmNjc0ODVhM2E4MTJkNmI1YmQ5Y2JjMTIwZDBiMmQzMGFlYzQ1N2Q2ZGY1NDVkMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Bz_JnEzZ7yPMrMdKnBAWM39QCXbgkRQkIQOwCxyKVSI",
+    image: "https://i.ibb.co/2hDB8r1/Project3.png",
     source_code_link: "https://github.com/Pranav-1001/textutils",
   },
 ];
